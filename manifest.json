@@ -1,0 +1,403 @@
+{
+  "titre": "Photos de villes de France",
+  "description": "Une photo librement utilisable par ville, nommée par slug. Consommable par n'importe quel projet via URLs publiques (raw GitHub ou CDN jsDelivr).",
+  "genereLe": "2026-08-30",
+  "nbVilles": 26,
+  "motifFichier": "photos/{slug}.jpg",
+  "urls": {
+    "raw": "https://raw.githubusercontent.com/homeselectparis/villes-france-photos/main/photos/{slug}.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/homeselectparis/villes-france-photos@main/photos/{slug}.jpg",
+    "manifest": "https://raw.githubusercontent.com/homeselectparis/villes-france-photos/main/manifest.json"
+  },
+  "villes": [
+    {
+      "slug": "paris",
+      "nom": "Paris",
+      "region": "Île-de-France",
+      "fichier": "photos/paris.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 250764,
+      "source": "Projet French Realty (fichier local public/img/villes/paris.jpg)",
+      "licence": {
+        "nom": "Fichier interne French Realty"
+      },
+      "credit": "French Realty"
+    },
+    {
+      "slug": "aix-en-provence",
+      "nom": "Aix-en-Provence",
+      "region": "Provence",
+      "fichier": "photos/aix-en-provence.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 462864,
+      "source": "https://images.pexels.com/photos/29983831/pexels-photo-29983831.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/29983831/"
+    },
+    {
+      "slug": "marseille",
+      "nom": "Marseille",
+      "region": "Provence",
+      "fichier": "photos/marseille.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 305084,
+      "source": "https://images.pexels.com/photos/34059360/pexels-photo-34059360.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/34059360/"
+    },
+    {
+      "slug": "nice",
+      "nom": "Nice",
+      "region": "Côte d’Azur",
+      "fichier": "photos/nice.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 237498,
+      "source": "https://images.pexels.com/photos/3016350/pexels-photo-3016350.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/3016350/"
+    },
+    {
+      "slug": "cannes",
+      "nom": "Cannes",
+      "region": "Côte d’Azur",
+      "fichier": "photos/cannes.jpg",
+      "largeur": 1600,
+      "hauteur": 1065,
+      "octets": 328202,
+      "source": "https://images.pexels.com/photos/2422402/pexels-photo-2422402.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/2422402/"
+    },
+    {
+      "slug": "saint-tropez",
+      "nom": "Saint-Tropez",
+      "region": "Côte d’Azur",
+      "fichier": "photos/saint-tropez.jpg",
+      "largeur": 1600,
+      "hauteur": 1063,
+      "octets": 525799,
+      "source": "https://images.pexels.com/photos/6931306/pexels-photo-6931306.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/6931306/"
+    },
+    {
+      "slug": "monaco",
+      "nom": "Monaco",
+      "region": "Côte d’Azur",
+      "fichier": "photos/monaco.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 437707,
+      "source": "https://images.pexels.com/photos/3586/port-yachts-monaco-luxury.jpg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/3586/"
+    },
+    {
+      "slug": "cassis",
+      "nom": "Cassis",
+      "region": "Provence",
+      "fichier": "photos/cassis.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 407925,
+      "source": "https://images.pexels.com/photos/29983928/pexels-photo-29983928.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/29983928/"
+    },
+    {
+      "slug": "avignon",
+      "nom": "Avignon",
+      "region": "Provence",
+      "fichier": "photos/avignon.jpg",
+      "largeur": 1600,
+      "hauteur": 2133,
+      "octets": 834254,
+      "source": "https://images.pexels.com/photos/12476850/pexels-photo-12476850.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/12476850/"
+    },
+    {
+      "slug": "lyon",
+      "nom": "Lyon",
+      "region": "Lyon",
+      "fichier": "photos/lyon.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 365128,
+      "source": "https://images.pexels.com/photos/8430275/pexels-photo-8430275.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/8430275/"
+    },
+    {
+      "slug": "annecy",
+      "nom": "Annecy",
+      "region": "Alpes",
+      "fichier": "photos/annecy.jpg",
+      "largeur": 1600,
+      "hauteur": 1061,
+      "octets": 224844,
+      "source": "https://images.pexels.com/photos/7245209/pexels-photo-7245209.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/7245209/"
+    },
+    {
+      "slug": "chamonix",
+      "nom": "Chamonix",
+      "region": "Alpes",
+      "fichier": "photos/chamonix.jpg",
+      "largeur": 1600,
+      "hauteur": 1058,
+      "octets": 196526,
+      "source": "https://images.pexels.com/photos/2835436/pexels-photo-2835436.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/2835436/"
+    },
+    {
+      "slug": "megeve",
+      "nom": "Megève",
+      "region": "Alpes",
+      "fichier": "photos/megeve.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 261050,
+      "source": "https://images.pexels.com/photos/19727169/pexels-photo-19727169.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/19727169/"
+    },
+    {
+      "slug": "courchevel",
+      "nom": "Courchevel",
+      "region": "Alpes",
+      "fichier": "photos/courchevel.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 381190,
+      "source": "https://images.pexels.com/photos/30401227/pexels-photo-30401227.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/30401227/"
+    },
+    {
+      "slug": "bordeaux",
+      "nom": "Bordeaux",
+      "region": "Bordeaux",
+      "fichier": "photos/bordeaux.jpg",
+      "largeur": 1600,
+      "hauteur": 930,
+      "octets": 237623,
+      "source": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/1059078/"
+    },
+    {
+      "slug": "biarritz",
+      "nom": "Biarritz",
+      "region": "Pays Basque",
+      "fichier": "photos/biarritz.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 258562,
+      "source": "https://images.pexels.com/photos/32968468/pexels-photo-32968468.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/32968468/"
+    },
+    {
+      "slug": "arcachon",
+      "nom": "Arcachon",
+      "region": "Côte Atlantique",
+      "fichier": "photos/arcachon.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 382651,
+      "source": "https://images.pexels.com/photos/9729435/pexels-photo-9729435.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/9729435/"
+    },
+    {
+      "slug": "cap-ferret",
+      "nom": "Cap Ferret",
+      "region": "Côte Atlantique",
+      "fichier": "photos/cap-ferret.jpg",
+      "largeur": 1600,
+      "hauteur": 2133,
+      "octets": 913982,
+      "source": "https://images.pexels.com/photos/28962431/pexels-photo-28962431.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/28962431/"
+    },
+    {
+      "slug": "deauville",
+      "nom": "Deauville",
+      "region": "Normandie",
+      "fichier": "photos/deauville.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 465652,
+      "source": "https://images.pexels.com/photos/27575899/pexels-photo-27575899.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/27575899/"
+    },
+    {
+      "slug": "honfleur",
+      "nom": "Honfleur",
+      "region": "Normandie",
+      "fichier": "photos/honfleur.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 377651,
+      "source": "https://images.pexels.com/photos/4917164/pexels-photo-4917164.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/4917164/"
+    },
+    {
+      "slug": "montpellier",
+      "nom": "Montpellier",
+      "region": "Occitanie",
+      "fichier": "photos/montpellier.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 476575,
+      "source": "https://images.pexels.com/photos/19059859/pexels-photo-19059859.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/19059859/"
+    },
+    {
+      "slug": "toulouse",
+      "nom": "Toulouse",
+      "region": "Occitanie",
+      "fichier": "photos/toulouse.jpg",
+      "largeur": 1600,
+      "hauteur": 2397,
+      "octets": 629811,
+      "source": "https://images.pexels.com/photos/17115429/pexels-photo-17115429.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/17115429/"
+    },
+    {
+      "slug": "collioure",
+      "nom": "Collioure",
+      "region": "Occitanie",
+      "fichier": "photos/collioure.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 351346,
+      "source": "https://images.pexels.com/photos/32490995/pexels-photo-32490995.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/32490995/"
+    },
+    {
+      "slug": "bandol",
+      "nom": "Bandol",
+      "region": "Provence",
+      "fichier": "photos/bandol.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 688067,
+      "source": "https://images.pexels.com/photos/28663925/pexels-photo-28663925.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/28663925/"
+    },
+    {
+      "slug": "sanary-sur-mer",
+      "nom": "Sanary-sur-Mer",
+      "region": "Provence",
+      "fichier": "photos/sanary-sur-mer.jpg",
+      "largeur": 1920,
+      "hauteur": 1125,
+      "octets": 826119,
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanary-sur-Mer.jpg?width=1200",
+      "licence": {
+        "nom": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "credit": "Tobi 87 (Wikimedia Commons), https://commons.wikimedia.org/wiki/File:Sanary-sur-Mer.jpg"
+    },
+    {
+      "slug": "saint-cyr-sur-mer",
+      "nom": "Saint-Cyr-sur-Mer",
+      "region": "Provence",
+      "fichier": "photos/saint-cyr-sur-mer.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 946032,
+      "source": "https://images.pexels.com/photos/29824892/pexels-photo-29824892.jpeg",
+      "licence": {
+        "nom": "Pexels License",
+        "url": "https://www.pexels.com/license/"
+      },
+      "credit": "https://www.pexels.com/photo/29824892/"
+    }
+  ]
+}
