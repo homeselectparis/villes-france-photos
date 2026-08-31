@@ -1,0 +1,84 @@
+name: Upgrade photos hero (3200px)
+
+# Workflow JETABLE (a supprimer apres usage) : re-telecharge depuis Pexels les
+# photos des villes servies en hero pleine largeur par home-select.fr, a la
+# resolution superieure (3200 px de large) au lieu des 1600 px d'origine.
+# Memes photos, memes slugs, memes licences : seule la resolution change.
+# Motif : le reseau des sessions Claude Code bloque images.pexels.com, les
+# runners Actions passent.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  upgrade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Telecharger les photos en 3200px
+        env:
+          SLUGS: nice cassis cannes saint-tropez collioure bordeaux arcachon biarritz deauville annecy chamonix lyon honfleur
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request, struct, pathlib, sys
+
+          manifest = json.load(open('manifest.json'))
+          par_slug = {v['slug']: v for v in manifest['villes']}
+          slugs = "nice cassis cannes saint-tropez collioure bordeaux arcachon biarritz deauville annecy chamonix lyon honfleur".split()
+
+          def jpeg_size(data):
+              # Parse les marqueurs JPEG jusqu'a SOF0/SOF2 : largeur, hauteur.
+              i = 2
+              while i < len(data) - 9:
+                  if data[i] != 0xFF:
+                      i += 1
+                      continue
+                  marker = data[i + 1]
+                  if marker in (0xC0, 0xC2):
+                      h, w = struct.unpack('>HH', data[i + 5:i + 9])
+                      return w, h
+                  if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD9:
+                      i += 2
+                      continue
+                  seg_len = struct.unpack('>H', data[i + 2:i + 4])[0]
+                  i += 2 + seg_len
+              raise ValueError('SOF introuvable')
+
+          rapport = []
+          for slug in slugs:
+              v = par_slug[slug]
+              url = v['source'] + '?auto=compress&cs=tinysrgb&w=3200'
+              req = urllib.request.Request(url, headers={'User-Agent': 'homeselect-photos-upgrade'})
+              data = urllib.request.urlopen(req, timeout=60).read()
+              if not data.startswith(b'\xff\xd8'):
+                  raise SystemExit(f'{slug}: la reponse n est pas un JPEG ({len(data)} octets)')
+              w, h = jpeg_size(data)
+              if w < 1601:
+                  raise SystemExit(f'{slug}: largeur {w}px, aucun gain par rapport a 1600')
+              dest = pathlib.Path('photos') / f'{slug}.jpg'
+              dest.write_bytes(data)
+              v['largeur'], v['hauteur'], v['octets'] = w, h, len(data)
+              rapport.append(f'{slug}: {w}x{h}, {len(data)//1024} Ko')
+
+          manifest['genereLe'] = '2026-08-31'
+          json.dump(manifest, open('manifest.json', 'w'), ensure_ascii=False, indent=2)
+          open('manifest.json', 'a').write('\n')
+          print('\n'.join(rapport))
+          PY
+
+      - name: Committer
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photos manifest.json
+          git diff --cached --quiet && echo "Rien a changer" && exit 0
+          git commit -m "photos: resolution superieure (3200px) pour 13 villes servies en hero
+
+          Memes photos Pexels, memes slugs, memes licences : seule la
+          resolution change (1600px -> 3200px), pour le hero pleine largeur
+          de home-select.fr qui ne doit pas pixeliser sur grands ecrans."
+          git push
