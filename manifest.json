@@ -312,12 +312,12 @@
       "fichier": "photos/collioure.jpg",
       "largeur": 3200,
       "hauteur": 2133,
-      "octets": 1634428,
-      "source": "Adobe Stock #322802683 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "octets": 1284503,
+      "source": "https://images.pexels.com/photos/32490995/pexels-photo-32490995.jpeg",
       "licence": {
-        "nom": "Adobe Stock (licence standard)"
+        "nom": "Pexels License"
       },
-      "credit": "Adobe Stock #322802683"
+      "credit": "Pexels (photo 32490995)"
     },
     {
       "slug": "bandol",
@@ -648,20 +648,6 @@
       "nom": "Arcachon (galerie 2)",
       "region": "Sud-Ouest",
       "fichier": "photos/galerie/arcachon-2.jpg",
-      "largeur": 1600,
-      "hauteur": 1066,
-      "octets": 335171,
-      "source": "Adobe Stock #776377 (abonnement Home Select, téléchargement du 11-12/09/2026)",
-      "licence": {
-        "nom": "Adobe Stock (licence standard)"
-      },
-      "credit": "Adobe Stock #776377"
-    },
-    {
-      "slug": "arcachon-3",
-      "nom": "Le bassin et les pinasses",
-      "region": "Sud-Ouest",
-      "fichier": "photos/galerie/arcachon-3.jpg",
       "largeur": 1600,
       "hauteur": 1066,
       "octets": 335171,
@@ -1092,62 +1078,6 @@
       "credit": "Adobe Stock #414260984"
     },
     {
-      "slug": "collioure-2",
-      "nom": "Collioure (galerie 2)",
-      "region": "Occitanie",
-      "fichier": "photos/galerie/collioure-2.jpg",
-      "largeur": 1600,
-      "hauteur": 900,
-      "octets": 300884,
-      "source": "Adobe Stock #637116360 (abonnement Home Select, téléchargement du 11-12/09/2026)",
-      "licence": {
-        "nom": "Adobe Stock (licence standard)"
-      },
-      "credit": "Adobe Stock #637116360"
-    },
-    {
-      "slug": "collioure-3",
-      "nom": "Les maisons colorées",
-      "region": "Occitanie",
-      "fichier": "photos/galerie/collioure-3.jpg",
-      "largeur": 1600,
-      "hauteur": 882,
-      "octets": 339152,
-      "source": "Adobe Stock #8546658 (abonnement Home Select, téléchargement du 11-12/09/2026)",
-      "licence": {
-        "nom": "Adobe Stock (licence standard)"
-      },
-      "credit": "Adobe Stock #8546658"
-    },
-    {
-      "slug": "collioure-4",
-      "nom": "La crique",
-      "region": "Occitanie",
-      "fichier": "photos/galerie/collioure-4.jpg",
-      "largeur": 1600,
-      "hauteur": 1071,
-      "octets": 328796,
-      "source": "Adobe Stock #29129358 (abonnement Home Select, téléchargement du 11-12/09/2026)",
-      "licence": {
-        "nom": "Adobe Stock (licence standard)"
-      },
-      "credit": "Adobe Stock #29129358"
-    },
-    {
-      "slug": "collioure-5",
-      "nom": "Les vignes",
-      "region": "Occitanie",
-      "fichier": "photos/galerie/collioure-5.jpg",
-      "largeur": 1600,
-      "hauteur": 516,
-      "octets": 171039,
-      "source": "Adobe Stock #3073125 (abonnement Home Select, téléchargement du 11-12/09/2026)",
-      "licence": {
-        "nom": "Adobe Stock (licence standard)"
-      },
-      "credit": "Adobe Stock #3073125"
-    },
-    {
       "slug": "courchevel-1",
       "nom": "Courchevel (galerie 1)",
       "region": "Alpes",
@@ -1244,6 +1174,48 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #325977869"
+    },
+    {
+      "slug": "deauville-4",
+      "nom": "Les villas du front de mer",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 458218,
+      "source": "Adobe Stock #322802683 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #322802683"
+    },
+    {
+      "slug": "deauville-5",
+      "nom": "Les Planches et leurs cabines",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-5.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 300884,
+      "source": "Adobe Stock #637116360 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #637116360"
+    },
+    {
+      "slug": "deauville-6",
+      "nom": "Une villa anglo-normande",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-6.jpg",
+      "largeur": 1600,
+      "hauteur": 882,
+      "octets": 339152,
+      "source": "Adobe Stock #8546658 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #8546658"
     },
     {
       "slug": "evian-les-bains-1",
@@ -2198,20 +2170,6 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #110077950"
-    },
-    {
-      "slug": "secteur-occitanie",
-      "nom": "Occitanie",
-      "region": "Occitanie",
-      "fichier": "photos/secteur/secteur-occitanie.jpg",
-      "largeur": 3200,
-      "hauteur": 1033,
-      "octets": 741311,
-      "source": "Adobe Stock #3073125 (abonnement Home Select, téléchargement du 11-12/09/2026)",
-      "licence": {
-        "nom": "Adobe Stock (licence standard)"
-      },
-      "credit": "Adobe Stock #3073125"
     },
     {
       "slug": "secteur-pays-basque",
