@@ -13,7 +13,7 @@ Contenu :
 - `photos/galerie/` : deux photos secondaires par ville,
   `{slug}-1.jpg` et `{slug}-2.jpg` (1600 px), pour les galeries de pages.
 - `photos/secteur/` : une photo par secteur géographique,
-  `{region}.jpg` (3200 px), pour les hubs de région.
+  `secteur-{region}.jpg` (3200 px), pour les hubs de région.
 - `manifest.json` : la liste complète avec, pour chaque photo : slug, nom,
   région, fichier, dimensions, poids, source d'origine, licence et crédit.
 - `index.js` : un petit helper JavaScript (sans dépendance) pour construire
