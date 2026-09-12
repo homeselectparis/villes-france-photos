@@ -7,13 +7,17 @@ authentification.
 
 Contenu :
 
-- `photos/` : 26 photos, largeur 1600 px, nommées `paris.jpg`, `lyon.jpg`,
-  `aix-en-provence.jpg`, etc. Le nom du fichier identifie la ville, sans
-  ambiguïté.
-- `manifest.json` : la liste complète des villes avec, pour chacune : slug,
-  nom, région, fichier, dimensions, poids, source d'origine, licence et crédit.
-- `index.js` : un petit helper JavaScript (sans dépendance) pour construire les
-  URLs.
+- `photos/` : 33 photos de villes (largeur 3200 px pour les heroes), nommées
+  `paris.jpg`, `lyon.jpg`, `aix-en-provence.jpg`, etc. Le nom du fichier
+  identifie la ville, sans ambiguïté.
+- `photos/galerie/` : deux photos secondaires par ville,
+  `{slug}-1.jpg` et `{slug}-2.jpg` (1600 px), pour les galeries de pages.
+- `photos/secteur/` : une photo par secteur géographique,
+  `{region}.jpg` (3200 px), pour les hubs de région.
+- `manifest.json` : la liste complète avec, pour chaque photo : slug, nom,
+  région, fichier, dimensions, poids, source d'origine, licence et crédit.
+- `index.js` : un petit helper JavaScript (sans dépendance) pour construire
+  les URLs.
 
 ## Accès depuis un autre projet
 
@@ -75,7 +79,12 @@ for (const ville of manifest.villes) {
 
 ## Licences et crédits
 
-- 24 photos proviennent de Pexels et sont soumises à la
+- Les photos ajoutées ou remplacées le 12/09/2026 (heroes de villes, galeries,
+  secteurs) proviennent d'un abonnement **Adobe Stock** du groupe Home Select,
+  sous **licence standard** : usage commercial sans attribution obligatoire.
+  L'identifiant Adobe de chaque photo est conservé dans le champ `credit` du
+  manifeste (forme `Adobe Stock #id`), preuve de licence et traçabilité.
+- Les photos Pexels antérieures restantes sont soumises à la
   [Pexels License](https://www.pexels.com/license/) : utilisation libre,
   commerciale incluse, sans attribution obligatoire. La page d'origine de
   chaque photo est conservée dans le champ `credit` du manifeste.
@@ -84,5 +93,5 @@ for (const ville of manifest.villes) {
   de l'auteur requise, republication de la photo sous la même licence.
 - `paris.jpg` est un fichier interne du projet French Realty.
 
-La liste exacte, ville par ville, avec source et licence, fait foi dans
+La liste exacte, photo par photo, avec source et licence, fait foi dans
 `manifest.json`.
