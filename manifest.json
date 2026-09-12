@@ -2,7 +2,7 @@
   "titre": "Photos de villes de France",
   "description": "Une photo de ville par slug (photos/{slug}.jpg), plus deux photos de galerie par ville (photos/galerie/{slug}-1.jpg et -2.jpg) et une photo par secteur (photos/secteur/{region}.jpg). Consommable par n'importe quel projet via URLs publiques (raw GitHub ou CDN jsDelivr). Licences Pexels ou Adobe Stock standard, sans obligation d'attribution.",
   "genereLe": "2026-09-12",
-  "nbVilles": 34,
+  "nbVilles": 33,
   "motifFichier": "photos/{slug}.jpg",
   "urls": {
     "raw": "https://raw.githubusercontent.com/homeselectparis/villes-france-photos/main/photos/{slug}.jpg",
@@ -93,21 +93,6 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #304217041"
-    },
-    {
-      "slug": "monaco",
-      "nom": "Monaco",
-      "region": "Côte d’Azur",
-      "fichier": "photos/monaco.jpg",
-      "largeur": 1600,
-      "hauteur": 1067,
-      "octets": 437707,
-      "source": "https://images.pexels.com/photos/3586/port-yachts-monaco-luxury.jpg",
-      "licence": {
-        "nom": "Pexels License",
-        "url": "https://www.pexels.com/license/"
-      },
-      "credit": "https://www.pexels.com/photo/3586/"
     },
     {
       "slug": "cassis",
