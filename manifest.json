@@ -1303,6 +1303,48 @@
       "credit": "Adobe Stock #204338039"
     },
     {
+      "slug": "honfleur-1",
+      "nom": "L'église et le Vieux-Bassin",
+      "region": "Normandie",
+      "fichier": "photos/galerie/honfleur-1.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 604330,
+      "source": "Adobe Stock #235224612 (abonnement Home Select, téléchargement du 12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #235224612"
+    },
+    {
+      "slug": "honfleur-2",
+      "nom": "Une ruelle pavée",
+      "region": "Normandie",
+      "fichier": "photos/galerie/honfleur-2.jpg",
+      "largeur": 1600,
+      "hauteur": 1007,
+      "octets": 384052,
+      "source": "Adobe Stock #225011009 (abonnement Home Select, téléchargement du 12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #225011009"
+    },
+    {
+      "slug": "honfleur-3",
+      "nom": "Le port de pêche",
+      "region": "Normandie",
+      "fichier": "photos/galerie/honfleur-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 582669,
+      "source": "Adobe Stock #925193646 (abonnement Home Select, téléchargement du 12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #925193646"
+    },
+    {
       "slug": "ile-de-re-1",
       "nom": "Île de Ré (galerie 1)",
       "region": "Sud-Ouest",
