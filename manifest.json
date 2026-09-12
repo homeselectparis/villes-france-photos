@@ -2,7 +2,7 @@
   "titre": "Photos de villes de France",
   "description": "Une photo de ville par slug (photos/{slug}.jpg), plus deux photos de galerie par ville (photos/galerie/{slug}-1.jpg et -2.jpg) et une photo par secteur (photos/secteur/{region}.jpg). Consommable par n'importe quel projet via URLs publiques (raw GitHub ou CDN jsDelivr). Licences Pexels ou Adobe Stock standard, sans obligation d'attribution.",
   "genereLe": "2026-09-12",
-  "nbVilles": 33,
+  "nbVilles": 34,
   "motifFichier": "photos/{slug}.jpg",
   "urls": {
     "raw": "https://raw.githubusercontent.com/homeselectparis/villes-france-photos/main/photos/{slug}.jpg",
@@ -353,15 +353,14 @@
       "nom": "Sanary-sur-Mer",
       "region": "Provence",
       "fichier": "photos/sanary-sur-mer.jpg",
-      "largeur": 1920,
-      "hauteur": 1125,
-      "octets": 826119,
-      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanary-sur-Mer.jpg?width=1200",
+      "largeur": 3200,
+      "hauteur": 1515,
+      "octets": 1386701,
+      "source": "Adobe Stock #811123262 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
-        "nom": "CC BY-SA 3.0",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        "nom": "Adobe Stock (licence standard)"
       },
-      "credit": "Tobi 87 (Wikimedia Commons), https://commons.wikimedia.org/wiki/File:Sanary-sur-Mer.jpg"
+      "credit": "Adobe Stock #811123262"
     },
     {
       "slug": "saint-cyr-sur-mer",
@@ -474,6 +473,20 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #82940972"
+    },
+    {
+      "slug": "la-ciotat",
+      "nom": "La Ciotat",
+      "region": "Provence",
+      "fichier": "photos/la-ciotat.jpg",
+      "largeur": 3200,
+      "hauteur": 1334,
+      "octets": 649045,
+      "source": "Adobe Stock #138102688 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #138102688"
     }
   ],
   "galerie": [
@@ -954,6 +967,34 @@
       "credit": "Adobe Stock #101176810"
     },
     {
+      "slug": "la-ciotat-1",
+      "nom": "La Ciotat (galerie 1)",
+      "region": "Provence",
+      "fichier": "photos/galerie/la-ciotat-1.jpg",
+      "largeur": 1600,
+      "hauteur": 791,
+      "octets": 306149,
+      "source": "Adobe Stock #186048307 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #186048307"
+    },
+    {
+      "slug": "la-ciotat-2",
+      "nom": "La Ciotat (galerie 2)",
+      "region": "Provence",
+      "fichier": "photos/galerie/la-ciotat-2.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 464991,
+      "source": "Adobe Stock #45742444 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #45742444"
+    },
+    {
       "slug": "la-rochelle-1",
       "nom": "La Rochelle (galerie 1)",
       "region": "Sud-Ouest",
@@ -1232,6 +1273,34 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #362581365"
+    },
+    {
+      "slug": "sanary-sur-mer-1",
+      "nom": "Sanary-sur-Mer (galerie 1)",
+      "region": "Provence",
+      "fichier": "photos/galerie/sanary-sur-mer-1.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 448940,
+      "source": "Adobe Stock #237252975 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #237252975"
+    },
+    {
+      "slug": "sanary-sur-mer-2",
+      "nom": "Sanary-sur-Mer (galerie 2)",
+      "region": "Provence",
+      "fichier": "photos/galerie/sanary-sur-mer-2.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 416688,
+      "source": "Adobe Stock #546873016 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #546873016"
     },
     {
       "slug": "toulouse-1",
