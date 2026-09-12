@@ -519,6 +519,62 @@
       "credit": "Adobe Stock #2012022373"
     },
     {
+      "slug": "aix-en-provence-3",
+      "nom": "La Sainte-Victoire",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 701696,
+      "source": "Adobe Stock #268510634 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #268510634"
+    },
+    {
+      "slug": "aix-en-provence-4",
+      "nom": "Les calissons",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 324575,
+      "source": "Adobe Stock #96366824 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #96366824"
+    },
+    {
+      "slug": "aix-en-provence-5",
+      "nom": "Façade aixoise",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-5.jpg",
+      "largeur": 1600,
+      "hauteur": 2133,
+      "octets": 891450,
+      "source": "Adobe Stock #1128659144 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1128659144"
+    },
+    {
+      "slug": "aix-en-provence-6",
+      "nom": "Toits du centre",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-6.jpg",
+      "largeur": 1600,
+      "hauteur": 1200,
+      "octets": 498811,
+      "source": "Adobe Stock #346897941 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #346897941"
+    },
+    {
       "slug": "annecy-1",
       "nom": "Annecy (galerie 1)",
       "region": "Rhône-Alpes",
@@ -575,6 +631,20 @@
       "credit": "Adobe Stock #229802051"
     },
     {
+      "slug": "antibes-3",
+      "nom": "La plage de sable",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 452575,
+      "source": "Adobe Stock #1150449841 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1150449841"
+    },
+    {
       "slug": "arcachon-1",
       "nom": "Arcachon (galerie 1)",
       "region": "Sud-Ouest",
@@ -593,6 +663,20 @@
       "nom": "Arcachon (galerie 2)",
       "region": "Sud-Ouest",
       "fichier": "photos/galerie/arcachon-2.jpg",
+      "largeur": 1600,
+      "hauteur": 1066,
+      "octets": 335171,
+      "source": "Adobe Stock #776377 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #776377"
+    },
+    {
+      "slug": "arcachon-3",
+      "nom": "Le bassin et les pinasses",
+      "region": "Sud-Ouest",
+      "fichier": "photos/galerie/arcachon-3.jpg",
       "largeur": 1600,
       "hauteur": 1066,
       "octets": 335171,
@@ -631,6 +715,20 @@
       "credit": "Adobe Stock #513212360"
     },
     {
+      "slug": "avignon-3",
+      "nom": "Le pont et la chapelle",
+      "region": "Provence",
+      "fichier": "photos/galerie/avignon-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 591639,
+      "source": "Adobe Stock #429774933 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #429774933"
+    },
+    {
       "slug": "bandol-1",
       "nom": "Bandol (galerie 1)",
       "region": "Provence",
@@ -657,6 +755,20 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #251321626"
+    },
+    {
+      "slug": "bandol-3",
+      "nom": "Le sentier littoral",
+      "region": "Provence",
+      "fichier": "photos/galerie/bandol-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 427185,
+      "source": "Adobe Stock #101218184 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #101218184"
     },
     {
       "slug": "biarritz-1",
@@ -687,6 +799,20 @@
       "credit": "Adobe Stock #175256740"
     },
     {
+      "slug": "biarritz-3",
+      "nom": "La côte et le phare",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 479656,
+      "source": "Adobe Stock #119084545 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #119084545"
+    },
+    {
       "slug": "bordeaux-1",
       "nom": "Bordeaux (galerie 1)",
       "region": "Sud-Ouest",
@@ -713,6 +839,48 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #163779690"
+    },
+    {
+      "slug": "bordeaux-3",
+      "nom": "Les quais",
+      "region": "Sud-Ouest",
+      "fichier": "photos/galerie/bordeaux-3.jpg",
+      "largeur": 1600,
+      "hauteur": 710,
+      "octets": 211093,
+      "source": "Adobe Stock #90287551 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #90287551"
+    },
+    {
+      "slug": "bordeaux-4",
+      "nom": "La rue Sainte-Catherine",
+      "region": "Sud-Ouest",
+      "fichier": "photos/galerie/bordeaux-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 531084,
+      "source": "Adobe Stock #163780734 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #163780734"
+    },
+    {
+      "slug": "bordeaux-5",
+      "nom": "La cathédrale",
+      "region": "Sud-Ouest",
+      "fichier": "photos/galerie/bordeaux-5.jpg",
+      "largeur": 1600,
+      "hauteur": 710,
+      "octets": 262315,
+      "source": "Adobe Stock #542285044 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #542285044"
     },
     {
       "slug": "cannes-1",
@@ -743,6 +911,20 @@
       "credit": "Adobe Stock #83236915"
     },
     {
+      "slug": "cannes-3",
+      "nom": "La baie et les Lérins",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1023,
+      "octets": 310714,
+      "source": "Adobe Stock #278836510 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #278836510"
+    },
+    {
       "slug": "cap-ferret-1",
       "nom": "Cap Ferret (galerie 1)",
       "region": "Sud-Ouest",
@@ -769,6 +951,20 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #68810155"
+    },
+    {
+      "slug": "cap-ferret-3",
+      "nom": "Les pinasses",
+      "region": "Sud-Ouest",
+      "fichier": "photos/galerie/cap-ferret-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 204226,
+      "source": "Adobe Stock #257425878 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #257425878"
     },
     {
       "slug": "cassis-1",
@@ -799,6 +995,62 @@
       "credit": "Adobe Stock #356334432"
     },
     {
+      "slug": "cassis-3",
+      "nom": "L'eau turquoise",
+      "region": "Provence",
+      "fichier": "photos/galerie/cassis-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 447171,
+      "source": "Adobe Stock #97302231 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #97302231"
+    },
+    {
+      "slug": "cassis-4",
+      "nom": "Une ruelle",
+      "region": "Provence",
+      "fichier": "photos/galerie/cassis-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 482557,
+      "source": "Adobe Stock #463171808 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #463171808"
+    },
+    {
+      "slug": "cassis-5",
+      "nom": "Les vignes",
+      "region": "Provence",
+      "fichier": "photos/galerie/cassis-5.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 596580,
+      "source": "Adobe Stock #1872082003 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1872082003"
+    },
+    {
+      "slug": "cassis-6",
+      "nom": "Le port",
+      "region": "Provence",
+      "fichier": "photos/galerie/cassis-6.jpg",
+      "largeur": 1600,
+      "hauteur": 898,
+      "octets": 563273,
+      "source": "Adobe Stock #231139732 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #231139732"
+    },
+    {
       "slug": "chamonix-1",
       "nom": "Chamonix (galerie 1)",
       "region": "Alpes",
@@ -825,6 +1077,20 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #325430825"
+    },
+    {
+      "slug": "chamonix-3",
+      "nom": "Le téléphérique",
+      "region": "Alpes",
+      "fichier": "photos/galerie/chamonix-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 449475,
+      "source": "Adobe Stock #394700287 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #394700287"
     },
     {
       "slug": "collioure-1",
@@ -855,6 +1121,48 @@
       "credit": "Adobe Stock #637116360"
     },
     {
+      "slug": "collioure-3",
+      "nom": "Les maisons colorées",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/collioure-3.jpg",
+      "largeur": 1600,
+      "hauteur": 882,
+      "octets": 339152,
+      "source": "Adobe Stock #8546658 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #8546658"
+    },
+    {
+      "slug": "collioure-4",
+      "nom": "La crique",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/collioure-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 328796,
+      "source": "Adobe Stock #29129358 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #29129358"
+    },
+    {
+      "slug": "collioure-5",
+      "nom": "Les vignes",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/collioure-5.jpg",
+      "largeur": 1600,
+      "hauteur": 516,
+      "octets": 171039,
+      "source": "Adobe Stock #3073125 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #3073125"
+    },
+    {
       "slug": "courchevel-1",
       "nom": "Courchevel (galerie 1)",
       "region": "Alpes",
@@ -881,6 +1189,34 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #237032266"
+    },
+    {
+      "slug": "courchevel-3",
+      "nom": "Les skieurs",
+      "region": "Alpes",
+      "fichier": "photos/galerie/courchevel-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 374552,
+      "source": "Adobe Stock #734085902 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #734085902"
+    },
+    {
+      "slug": "courchevel-4",
+      "nom": "Chalet à 1850",
+      "region": "Alpes",
+      "fichier": "photos/galerie/courchevel-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 305708,
+      "source": "Adobe Stock #192437104 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #192437104"
     },
     {
       "slug": "deauville-1",
@@ -911,6 +1247,20 @@
       "credit": "Adobe Stock #229736898"
     },
     {
+      "slug": "deauville-3",
+      "nom": "Le port et les yachts",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-3.jpg",
+      "largeur": 1600,
+      "hauteur": 759,
+      "octets": 363662,
+      "source": "Adobe Stock #325977869 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #325977869"
+    },
+    {
       "slug": "evian-les-bains-1",
       "nom": "Évian-les-Bains (galerie 1)",
       "region": "Rhône-Alpes",
@@ -937,6 +1287,20 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #38021073"
+    },
+    {
+      "slug": "evian-les-bains-3",
+      "nom": "La ville au bord de l'eau",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/evian-les-bains-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 267017,
+      "source": "Adobe Stock #204338039 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #204338039"
     },
     {
       "slug": "ile-de-re-1",
@@ -967,6 +1331,34 @@
       "credit": "Adobe Stock #101176810"
     },
     {
+      "slug": "ile-de-re-3",
+      "nom": "Saint-Martin-de-Ré",
+      "region": "Sud-Ouest",
+      "fichier": "photos/galerie/ile-de-re-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 321968,
+      "source": "Adobe Stock #449010039 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #449010039"
+    },
+    {
+      "slug": "ile-de-re-4",
+      "nom": "La plage",
+      "region": "Sud-Ouest",
+      "fichier": "photos/galerie/ile-de-re-4.jpg",
+      "largeur": 1600,
+      "hauteur": 880,
+      "octets": 229322,
+      "source": "Adobe Stock #72502569 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #72502569"
+    },
+    {
       "slug": "la-ciotat-1",
       "nom": "La Ciotat (galerie 1)",
       "region": "Provence",
@@ -993,6 +1385,20 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #45742444"
+    },
+    {
+      "slug": "la-ciotat-3",
+      "nom": "La plage et la baie",
+      "region": "Provence",
+      "fichier": "photos/galerie/la-ciotat-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 452092,
+      "source": "Adobe Stock #53821292 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #53821292"
     },
     {
       "slug": "la-rochelle-1",
@@ -1023,6 +1429,20 @@
       "credit": "Adobe Stock #66312439"
     },
     {
+      "slug": "la-rochelle-3",
+      "nom": "Les voiliers",
+      "region": "Sud-Ouest",
+      "fichier": "photos/galerie/la-rochelle-3.jpg",
+      "largeur": 1600,
+      "hauteur": 2292,
+      "octets": 996965,
+      "source": "Adobe Stock #483585940 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #483585940"
+    },
+    {
       "slug": "lyon-1",
       "nom": "Lyon (galerie 1)",
       "region": "Rhône-Alpes",
@@ -1049,6 +1469,34 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #135076847"
+    },
+    {
+      "slug": "lyon-3",
+      "nom": "L'Opéra",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 479689,
+      "source": "Adobe Stock #162810742 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #162810742"
+    },
+    {
+      "slug": "lyon-4",
+      "nom": "La place Bellecour",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-4.jpg",
+      "largeur": 1600,
+      "hauteur": 568,
+      "octets": 167530,
+      "source": "Adobe Stock #75536529 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #75536529"
     },
     {
       "slug": "marseille-1",
@@ -1079,6 +1527,62 @@
       "credit": "Adobe Stock #65458603"
     },
     {
+      "slug": "marseille-3",
+      "nom": "Le Panier",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 443395,
+      "source": "Adobe Stock #89107711 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #89107711"
+    },
+    {
+      "slug": "marseille-4",
+      "nom": "Les calanques",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 452001,
+      "source": "Adobe Stock #272687767 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #272687767"
+    },
+    {
+      "slug": "marseille-5",
+      "nom": "Les toits rouges",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-5.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 479422,
+      "source": "Adobe Stock #326381394 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #326381394"
+    },
+    {
+      "slug": "marseille-6",
+      "nom": "Le port et la Bonne Mère",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-6.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 460580,
+      "source": "Adobe Stock #94726032 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #94726032"
+    },
+    {
       "slug": "megeve-1",
       "nom": "Megève (galerie 1)",
       "region": "Alpes",
@@ -1105,6 +1609,34 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #549694626"
+    },
+    {
+      "slug": "megeve-3",
+      "nom": "La rue du village",
+      "region": "Alpes",
+      "fichier": "photos/galerie/megeve-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1135,
+      "octets": 300791,
+      "source": "Adobe Stock #293203949 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #293203949"
+    },
+    {
+      "slug": "megeve-4",
+      "nom": "Pistes et sapins",
+      "region": "Alpes",
+      "fichier": "photos/galerie/megeve-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1080,
+      "octets": 298726,
+      "source": "Adobe Stock #293204003 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #293204003"
     },
     {
       "slug": "montpellier-1",
@@ -1161,6 +1693,62 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #171999633"
+    },
+    {
+      "slug": "nice-3",
+      "nom": "La Promenade",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-3.jpg",
+      "largeur": 1600,
+      "hauteur": 729,
+      "octets": 354851,
+      "source": "Adobe Stock #680371519 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #680371519"
+    },
+    {
+      "slug": "nice-4",
+      "nom": "Le Vieux-Nice",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 386645,
+      "source": "Adobe Stock #67713777 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #67713777"
+    },
+    {
+      "slug": "nice-5",
+      "nom": "La place Masséna",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-5.jpg",
+      "largeur": 1600,
+      "hauteur": 1066,
+      "octets": 472604,
+      "source": "Adobe Stock #528548575 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #528548575"
+    },
+    {
+      "slug": "nice-6",
+      "nom": "Façade niçoise",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-6.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 425963,
+      "source": "Adobe Stock #260358463 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #260358463"
     },
     {
       "slug": "saint-cyr-sur-mer-1",
@@ -1247,6 +1835,20 @@
       "credit": "Adobe Stock #122334969"
     },
     {
+      "slug": "saint-jean-de-luz-3",
+      "nom": "La baie et ses maisons",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/saint-jean-de-luz-3.jpg",
+      "largeur": 1600,
+      "hauteur": 964,
+      "octets": 320267,
+      "source": "Adobe Stock #364560565 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #364560565"
+    },
+    {
       "slug": "saint-tropez-1",
       "nom": "Saint-Tropez (galerie 1)",
       "region": "Côte d’Azur",
@@ -1273,6 +1875,34 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #362581365"
+    },
+    {
+      "slug": "saint-tropez-3",
+      "nom": "Le Vieux-Port",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1065,
+      "octets": 499744,
+      "source": "Adobe Stock #239835467 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #239835467"
+    },
+    {
+      "slug": "saint-tropez-4",
+      "nom": "La citadelle",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-4.jpg",
+      "largeur": 1600,
+      "hauteur": 897,
+      "octets": 365911,
+      "source": "Adobe Stock #893054115 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #893054115"
     },
     {
       "slug": "sanary-sur-mer-1",
@@ -1303,6 +1933,20 @@
       "credit": "Adobe Stock #546873016"
     },
     {
+      "slug": "sanary-sur-mer-3",
+      "nom": "La chapelle",
+      "region": "Provence",
+      "fichier": "photos/galerie/sanary-sur-mer-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1200,
+      "octets": 487777,
+      "source": "Adobe Stock #146503278 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #146503278"
+    },
+    {
       "slug": "toulouse-1",
       "nom": "Toulouse (galerie 1)",
       "region": "Occitanie",
@@ -1331,6 +1975,90 @@
       "credit": "Adobe Stock #490089256"
     },
     {
+      "slug": "toulouse-3",
+      "nom": "Le pont Neuf",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-3.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 159228,
+      "source": "Adobe Stock #418941308 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #418941308"
+    },
+    {
+      "slug": "toulouse-4",
+      "nom": "Les Jacobins",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-4.jpg",
+      "largeur": 1600,
+      "hauteur": 503,
+      "octets": 151668,
+      "source": "Adobe Stock #60065414 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #60065414"
+    },
+    {
+      "slug": "toulouse-5",
+      "nom": "La brique rose",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-5.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 600095,
+      "source": "Adobe Stock #613144453 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #613144453"
+    },
+    {
+      "slug": "toulouse-6",
+      "nom": "La cour du Capitole",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-6.jpg",
+      "largeur": 1600,
+      "hauteur": 1065,
+      "octets": 580291,
+      "source": "Adobe Stock #129730912 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #129730912"
+    },
+    {
+      "slug": "toulouse-7",
+      "nom": "La Cité de l'espace",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-7.jpg",
+      "largeur": 1600,
+      "hauteur": 417,
+      "octets": 182844,
+      "source": "Adobe Stock #510416341 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #510416341"
+    },
+    {
+      "slug": "toulouse-8",
+      "nom": "Le jardin japonais",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-8.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 543171,
+      "source": "Adobe Stock #307756362 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #307756362"
+    },
+    {
       "slug": "vannes-1",
       "nom": "Vannes (galerie 1)",
       "region": "Bretagne",
@@ -1357,6 +2085,20 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #1958898380"
+    },
+    {
+      "slug": "vannes-3",
+      "nom": "Les remparts",
+      "region": "Bretagne",
+      "fichier": "photos/galerie/vannes-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 407565,
+      "source": "Adobe Stock #268097853 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #268097853"
     }
   ],
   "secteurs": [
