@@ -1933,7 +1933,7 @@
     },
     {
       "slug": "marseille-1",
-      "nom": "Marseille (galerie 1)",
+    "nom": "Le Vallon des Auffes",
       "region": "Provence",
       "fichier": "photos/galerie/marseille-1.jpg",
       "largeur": 1600,
@@ -1947,7 +1947,7 @@
     },
     {
       "slug": "marseille-2",
-      "nom": "Marseille (galerie 2)",
+    "nom": "Le château d'If et le Frioul",
       "region": "Provence",
       "fichier": "photos/galerie/marseille-2.jpg",
       "largeur": 1600,
