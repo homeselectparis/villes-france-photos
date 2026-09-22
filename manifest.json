@@ -2381,12 +2381,12 @@
     },
     {
       "slug": "toulouse-1",
-      "nom": "Toulouse (galerie 1)",
+      "nom": "La place du Capitole de nuit",
       "region": "Occitanie",
       "fichier": "photos/galerie/toulouse-1.jpg",
-      "largeur": 1600,
-      "hauteur": 1068,
-      "octets": 474694,
+      "largeur": 3200,
+      "hauteur": 2136,
+      "octets": 1517004,
       "source": "Adobe Stock #88703248 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -2395,7 +2395,7 @@
     },
     {
       "slug": "toulouse-2",
-      "nom": "Toulouse (galerie 2)",
+      "nom": "Une rue de briques roses",
       "region": "Occitanie",
       "fichier": "photos/galerie/toulouse-2.jpg",
       "largeur": 1600,
@@ -2409,7 +2409,7 @@
     },
     {
       "slug": "toulouse-3",
-      "nom": "Le pont Neuf",
+      "nom": "L’aéroport de Toulouse",
       "region": "Occitanie",
       "fichier": "photos/galerie/toulouse-3.jpg",
       "largeur": 1600,
@@ -2423,12 +2423,12 @@
     },
     {
       "slug": "toulouse-4",
-      "nom": "Les Jacobins",
+      "nom": "La Garonne et le pont Neuf la nuit",
       "region": "Occitanie",
       "fichier": "photos/galerie/toulouse-4.jpg",
-      "largeur": 1600,
-      "hauteur": 503,
-      "octets": 151668,
+      "largeur": 4578,
+      "hauteur": 1440,
+      "octets": 833647,
       "source": "Adobe Stock #60065414 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -2437,7 +2437,7 @@
     },
     {
       "slug": "toulouse-5",
-      "nom": "La brique rose",
+      "nom": "La basilique Saint-Sernin",
       "region": "Occitanie",
       "fichier": "photos/galerie/toulouse-5.jpg",
       "largeur": 1600,
@@ -2465,7 +2465,7 @@
     },
     {
       "slug": "toulouse-7",
-      "nom": "La Cité de l'espace",
+      "nom": "La Cité de l’espace",
       "region": "Occitanie",
       "fichier": "photos/galerie/toulouse-7.jpg",
       "largeur": 1600,
@@ -2784,6 +2784,216 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #18795926"
+    },
+    {
+      "slug": "toulouse-9",
+      "nom": "Une rue de briques vers le clocher",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-9.jpg",
+      "largeur": 1600,
+      "hauteur": 2482,
+      "octets": 904982,
+      "source": "Adobe Stock #243462472 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #243462472"
+    },
+    {
+      "slug": "toulouse-10",
+      "nom": "La cour d’un hôtel particulier",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-10.jpg",
+      "largeur": 1600,
+      "hauteur": 2240,
+      "octets": 669142,
+      "source": "Adobe Stock #574225592 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #574225592"
+    },
+    {
+      "slug": "toulouse-11",
+      "nom": "La rue commerçante",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-11.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 99667,
+      "source": "Adobe Stock #1328745152 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1328745152"
+    },
+    {
+      "slug": "toulouse-12",
+      "nom": "Le marché d’une place",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-12.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 512658,
+      "source": "Adobe Stock #26990133 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #26990133"
+    },
+    {
+      "slug": "toulouse-13",
+      "nom": "L’escalier d’honneur du Capitole",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-13.jpg",
+      "largeur": 1600,
+      "hauteur": 1379,
+      "octets": 483272,
+      "source": "Adobe Stock #75584026 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #75584026"
+    },
+    {
+      "slug": "toulouse-14",
+      "nom": "La ville rose vue du ciel",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-14.jpg",
+      "largeur": 3200,
+      "hauteur": 2134,
+      "octets": 816688,
+      "source": "Adobe Stock #630498915 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #630498915"
+    },
+    {
+      "slug": "toulouse-15",
+      "nom": "Le cloître des Jacobins",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-15.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 294965,
+      "source": "Adobe Stock #86072240 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #86072240"
+    },
+    {
+      "slug": "toulouse-16",
+      "nom": "La cathédrale Saint-Étienne",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-16.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 364749,
+      "source": "Adobe Stock #13057988 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #13057988"
+    },
+    {
+      "slug": "toulouse-17",
+      "nom": "Les quais et les péniches",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-17.jpg",
+      "largeur": 1600,
+      "hauteur": 862,
+      "octets": 367863,
+      "source": "Adobe Stock #371793698 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #371793698"
+    },
+    {
+      "slug": "toulouse-18",
+      "nom": "Le couvent des Jacobins",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-18.jpg",
+      "largeur": 1600,
+      "hauteur": 1066,
+      "octets": 340753,
+      "source": "Adobe Stock #1889345516 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1889345516"
+    },
+    {
+      "slug": "toulouse-19",
+      "nom": "Les quais de Garonne",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-19.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 397050,
+      "source": "Adobe Stock #9463878 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #9463878"
+    },
+    {
+      "slug": "toulouse-20",
+      "nom": "La fresque trompe-l’œil",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-20.jpg",
+      "largeur": 1600,
+      "hauteur": 1066,
+      "octets": 144487,
+      "source": "Adobe Stock #454957798 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #454957798"
+    },
+    {
+      "slug": "toulouse-21",
+      "nom": "Le passage voûté",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-21.jpg",
+      "largeur": 1600,
+      "hauteur": 2416,
+      "octets": 555159,
+      "source": "Adobe Stock #63793725 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #63793725"
+    },
+    {
+      "slug": "toulouse-22",
+      "nom": "Le musée des Augustins",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-22.jpg",
+      "largeur": 1600,
+      "hauteur": 1200,
+      "octets": 439323,
+      "source": "Adobe Stock #7820290 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #7820290"
+    },
+    {
+      "slug": "toulouse-23",
+      "nom": "Le dôme de la basilique",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/toulouse-23.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 824307,
+      "source": "Adobe Stock #574231276 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #574231276"
     }
   ],
   "secteurs": [
