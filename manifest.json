@@ -1933,7 +1933,7 @@
     },
     {
       "slug": "marseille-1",
-    "nom": "Le Vallon des Auffes",
+      "nom": "Le Vallon des Auffes",
       "region": "Provence",
       "fichier": "photos/galerie/marseille-1.jpg",
       "largeur": 1600,
@@ -1947,7 +1947,7 @@
     },
     {
       "slug": "marseille-2",
-    "nom": "Le château d'If et le Frioul",
+      "nom": "Le château d'If et le Frioul",
       "region": "Provence",
       "fichier": "photos/galerie/marseille-2.jpg",
       "largeur": 1600,
@@ -2006,10 +2006,10 @@
       "nom": "Le port et la Bonne Mère",
       "region": "Provence",
       "fichier": "photos/galerie/marseille-6.jpg",
-      "largeur": 1600,
-      "hauteur": 1067,
-      "octets": 460580,
-      "source": "Adobe Stock #94726032 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 1286197,
+      "source": "Adobe Stock #94726032 (abonnement Home Select, téléchargements des 11-12 et 22/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
       },
@@ -2532,6 +2532,118 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #268097853"
+    },
+    {
+      "slug": "marseille-7",
+      "nom": "La poissonnerie du Vieux-Port",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-7.jpg",
+      "largeur": 1600,
+      "hauteur": 1066,
+      "octets": 292866,
+      "source": "Adobe Stock #780272123 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #780272123"
+    },
+    {
+      "slug": "marseille-8",
+      "nom": "Une façade ocre aux volets blancs",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-8.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 400064,
+      "source": "Adobe Stock #1992598997 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1992598997"
+    },
+    {
+      "slug": "marseille-9",
+      "nom": "La bouillabaisse",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-9.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 373791,
+      "source": "Adobe Stock #105927936 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #105927936"
+    },
+    {
+      "slug": "marseille-10",
+      "nom": "Une rue pastel du Panier",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-10.jpg",
+      "largeur": 3200,
+      "hauteur": 2134,
+      "octets": 1177827,
+      "source": "Adobe Stock #405585207 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #405585207"
+    },
+    {
+      "slug": "marseille-11",
+      "nom": "Les toits d'un quartier de collines",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-11.jpg",
+      "largeur": 1600,
+      "hauteur": 1065,
+      "octets": 407946,
+      "source": "Adobe Stock #214488076 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #214488076"
+    },
+    {
+      "slug": "marseille-12",
+      "nom": "Le Vallon des Auffes et son viaduc",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-12.jpg",
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 952718,
+      "source": "Adobe Stock #176714718 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #176714718"
+    },
+    {
+      "slug": "marseille-13",
+      "nom": "Les villas du sud de la ville",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-13.jpg",
+      "largeur": 1600,
+      "hauteur": 1199,
+      "octets": 530883,
+      "source": "Adobe Stock #257099052 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #257099052"
+    },
+    {
+      "slug": "marseille-14",
+      "nom": "Le Vieux-Port et ses voiliers",
+      "region": "Provence",
+      "fichier": "photos/galerie/marseille-14.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 370501,
+      "source": "Adobe Stock #106042958 (abonnement Home Select, téléchargement du 18/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #106042958"
     }
   ],
   "secteurs": [
