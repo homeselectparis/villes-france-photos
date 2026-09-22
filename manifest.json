@@ -477,7 +477,7 @@
   "galerie": [
     {
       "slug": "aix-en-provence-1",
-      "nom": "Aix-en-Provence (galerie 1)",
+      "nom": "La fontaine du Roi René",
       "region": "Provence",
       "fichier": "photos/galerie/aix-en-provence-1.jpg",
       "largeur": 1600,
@@ -491,7 +491,7 @@
     },
     {
       "slug": "aix-en-provence-2",
-      "nom": "Aix-en-Provence (galerie 2)",
+      "nom": "Une ruelle fleurie du vieil Aix",
       "region": "Provence",
       "fichier": "photos/galerie/aix-en-provence-2.jpg",
       "largeur": 1600,
