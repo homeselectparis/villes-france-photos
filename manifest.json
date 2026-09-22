@@ -508,9 +508,9 @@
       "nom": "La Sainte-Victoire",
       "region": "Provence",
       "fichier": "photos/galerie/aix-en-provence-3.jpg",
-      "largeur": 1600,
-      "hauteur": 1067,
-      "octets": 701696,
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 2093261,
       "source": "Adobe Stock #268510634 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -558,6 +558,174 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #346897941"
+    },
+    {
+      "slug": "aix-en-provence-7",
+      "nom": "Le centre ancien vu du ciel",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-7.jpg",
+      "largeur": 3200,
+      "hauteur": 2126,
+      "octets": 1726273,
+      "source": "Adobe Stock #328171507 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #328171507"
+    },
+    {
+      "slug": "aix-en-provence-8",
+      "nom": "Vers la cathédrale Saint-Sauveur",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-8.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 625552,
+      "source": "Adobe Stock #1869437824 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1869437824"
+    },
+    {
+      "slug": "aix-en-provence-9",
+      "nom": "La place d'Albertas",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-9.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 403815,
+      "source": "Adobe Stock #122682184 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #122682184"
+    },
+    {
+      "slug": "aix-en-provence-10",
+      "nom": "Le marché aux fleurs",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-10.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 439307,
+      "source": "Adobe Stock #108795559 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #108795559"
+    },
+    {
+      "slug": "aix-en-provence-11",
+      "nom": "Terrasse sous les platanes",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-11.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 398417,
+      "source": "Adobe Stock #85086216 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #85086216"
+    },
+    {
+      "slug": "aix-en-provence-12",
+      "nom": "Hôtel particulier",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-12.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 316965,
+      "source": "Adobe Stock #807960736 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #807960736"
+    },
+    {
+      "slug": "aix-en-provence-13",
+      "nom": "La fontaine des Quatre-Dauphins",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-13.jpg",
+      "largeur": 3200,
+      "hauteur": 1067,
+      "octets": 488128,
+      "source": "Adobe Stock #627782109 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #627782109"
+    },
+    {
+      "slug": "aix-en-provence-14",
+      "nom": "Un mas et son jardin",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-14.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 504165,
+      "source": "Adobe Stock #211501263 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #211501263"
+    },
+    {
+      "slug": "aix-en-provence-15",
+      "nom": "La cour d'une bastide",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-15.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 375553,
+      "source": "Adobe Stock #17744740 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #17744740"
+    },
+    {
+      "slug": "aix-en-provence-16",
+      "nom": "Le cours Mirabeau",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-16.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 548817,
+      "source": "Adobe Stock #4326306 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #4326306"
+    },
+    {
+      "slug": "aix-en-provence-17",
+      "nom": "Chapelle en campagne",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-17.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 333117,
+      "source": "Adobe Stock #252115242 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #252115242"
+    },
+    {
+      "slug": "aix-en-provence-18",
+      "nom": "Chapelle, l'intérieur",
+      "region": "Provence",
+      "fichier": "photos/galerie/aix-en-provence-18.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 414222,
+      "source": "Adobe Stock #807080763 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #807080763"
     },
     {
       "slug": "annecy-1",
