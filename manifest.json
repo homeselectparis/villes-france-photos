@@ -1877,12 +1877,12 @@
     },
     {
       "slug": "lyon-1",
-      "nom": "Lyon (galerie 1)",
+      "nom": "La passerelle Saint-Georges",
       "region": "Rhône-Alpes",
       "fichier": "photos/galerie/lyon-1.jpg",
-      "largeur": 1600,
-      "hauteur": 715,
-      "octets": 311441,
+      "largeur": 3221,
+      "hauteur": 1440,
+      "octets": 996427,
       "source": "Adobe Stock #175454418 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -1891,12 +1891,12 @@
     },
     {
       "slug": "lyon-2",
-      "nom": "Lyon (galerie 2)",
+      "nom": "Les toits de Lyon au couchant",
       "region": "Rhône-Alpes",
       "fichier": "photos/galerie/lyon-2.jpg",
-      "largeur": 1600,
-      "hauteur": 813,
-      "octets": 395211,
+      "largeur": 3200,
+      "hauteur": 1627,
+      "octets": 1059723,
       "source": "Adobe Stock #135076847 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -1905,7 +1905,7 @@
     },
     {
       "slug": "lyon-3",
-      "nom": "L'Opéra",
+      "nom": "Une terrasse de café",
       "region": "Rhône-Alpes",
       "fichier": "photos/galerie/lyon-3.jpg",
       "largeur": 1600,
@@ -1919,12 +1919,12 @@
     },
     {
       "slug": "lyon-4",
-      "nom": "La place Bellecour",
+      "nom": "La basilique de Fourvière à l’heure bleue",
       "region": "Rhône-Alpes",
       "fichier": "photos/galerie/lyon-4.jpg",
-      "largeur": 1600,
-      "hauteur": 568,
-      "octets": 167530,
+      "largeur": 4054,
+      "hauteur": 1440,
+      "octets": 658153,
       "source": "Adobe Stock #75536529 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -2644,6 +2644,146 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #106042958"
+    },
+    {
+      "slug": "lyon-5",
+      "nom": "Une façade Renaissance du Vieux Lyon",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-5.jpg",
+      "largeur": 1600,
+      "hauteur": 2850,
+      "octets": 618145,
+      "source": "Adobe Stock #4539870 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #4539870"
+    },
+    {
+      "slug": "lyon-6",
+      "nom": "Une traboule du Vieux Lyon",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-6.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 578112,
+      "source": "Adobe Stock #541711718 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #541711718"
+    },
+    {
+      "slug": "lyon-7",
+      "nom": "La quenelle lyonnaise",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-7.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 688835,
+      "source": "Adobe Stock #353466531 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #353466531"
+    },
+    {
+      "slug": "lyon-8",
+      "nom": "La cour à escalier à vis",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-8.jpg",
+      "largeur": 1600,
+      "hauteur": 2133,
+      "octets": 499286,
+      "source": "Adobe Stock #579008849 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #579008849"
+    },
+    {
+      "slug": "lyon-9",
+      "nom": "L’escalier en colimaçon",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-9.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 612056,
+      "source": "Adobe Stock #78308363 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #78308363"
+    },
+    {
+      "slug": "lyon-10",
+      "nom": "La façade d’un bouchon",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-10.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 352552,
+      "source": "Adobe Stock #2188767350 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #2188767350"
+    },
+    {
+      "slug": "lyon-11",
+      "nom": "La place Bellecour",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-11.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 342072,
+      "source": "Adobe Stock #401536120 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #401536120"
+    },
+    {
+      "slug": "lyon-12",
+      "nom": "Une façade à balcons",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-12.jpg",
+      "largeur": 1600,
+      "hauteur": 1066,
+      "octets": 356279,
+      "source": "Adobe Stock #2188767736 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #2188767736"
+    },
+    {
+      "slug": "lyon-13",
+      "nom": "Un grand escalier de pierre",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-13.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 579190,
+      "source": "Adobe Stock #541711681 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #541711681"
+    },
+    {
+      "slug": "lyon-14",
+      "nom": "L’escalier monumental",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/lyon-14.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 626893,
+      "source": "Adobe Stock #18795926 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #18795926"
     }
   ],
   "secteurs": [
