@@ -2073,12 +2073,12 @@
     },
     {
       "slug": "montpellier-1",
-      "nom": "Montpellier (galerie 1)",
+      "nom": "La Comédie et sa fontaine",
       "region": "Occitanie",
       "fichier": "photos/galerie/montpellier-1.jpg",
       "largeur": 1600,
       "hauteur": 899,
-      "octets": 463596,
+      "octets": 365036,
       "source": "Adobe Stock #184828272 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -2087,12 +2087,12 @@
     },
     {
       "slug": "montpellier-2",
-      "nom": "Montpellier (galerie 2)",
+      "nom": "La ruelle de l’Écusson",
       "region": "Occitanie",
       "fichier": "photos/galerie/montpellier-2.jpg",
       "largeur": 1600,
       "hauteur": 1067,
-      "octets": 353296,
+      "octets": 278509,
       "source": "Adobe Stock #123829532 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -3820,6 +3820,104 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #3073125"
+    },
+    {
+      "slug": "montpellier-3",
+      "nom": "L’escalier de la ruelle",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/montpellier-3.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 496463,
+      "source": "Adobe Stock #244343910 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #244343910"
+    },
+    {
+      "slug": "montpellier-4",
+      "nom": "La cathédrale Saint-Pierre",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/montpellier-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 395952,
+      "source": "Adobe Stock #179744512 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #179744512"
+    },
+    {
+      "slug": "montpellier-5",
+      "nom": "La promenade du Peyrou",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/montpellier-5.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 297454,
+      "source": "Adobe Stock #179744161 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #179744161"
+    },
+    {
+      "slug": "montpellier-6",
+      "nom": "L’Antigone",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/montpellier-6.jpg",
+      "largeur": 3200,
+      "hauteur": 1796,
+      "octets": 639299,
+      "source": "Adobe Stock #114244616 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #114244616"
+    },
+    {
+      "slug": "montpellier-7",
+      "nom": "La terrasse",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/montpellier-7.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 254494,
+      "source": "Adobe Stock #3755131 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #3755131"
+    },
+    {
+      "slug": "montpellier-8",
+      "nom": "Le marché des Arceaux",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/montpellier-8.jpg",
+      "largeur": 3200,
+      "hauteur": 2136,
+      "octets": 1460476,
+      "source": "Adobe Stock #137811864 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #137811864"
+    },
+    {
+      "slug": "montpellier-9",
+      "nom": "La Comédie en grand",
+      "region": "Occitanie",
+      "fichier": "photos/galerie/montpellier-9.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 184322,
+      "source": "Adobe Stock #179743158 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #179743158"
     }
   ],
   "secteurs": [
