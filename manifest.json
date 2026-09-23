@@ -3652,6 +3652,20 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #274062874"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-12",
+      "nom": "Le couchant sur la rade",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-12.jpg",
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 1507674,
+      "source": "Adobe Stock #168106163 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #168106163"
     }
   ],
   "secteurs": [
