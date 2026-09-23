@@ -2213,12 +2213,12 @@
     },
     {
       "slug": "saint-jean-cap-ferrat-1",
-      "nom": "Saint-Jean-Cap-Ferrat (galerie 1)",
+      "nom": "La villa sous les palmiers",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/saint-jean-cap-ferrat-1.jpg",
       "largeur": 1600,
-      "hauteur": 981,
-      "octets": 525625,
+      "hauteur": 980,
+      "octets": 404317,
       "source": "Adobe Stock #2070097149 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -2227,12 +2227,12 @@
     },
     {
       "slug": "saint-jean-cap-ferrat-2",
-      "nom": "Saint-Jean-Cap-Ferrat (galerie 2)",
+      "nom": "La presqu’île des pins",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/saint-jean-cap-ferrat-2.jpg",
       "largeur": 1600,
       "hauteur": 1063,
-      "octets": 502688,
+      "octets": 390632,
       "source": "Adobe Stock #253746526 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -3526,6 +3526,132 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #503173013"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-3",
+      "nom": "L’allée de cyprès",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-3.jpg",
+      "largeur": 1121,
+      "hauteur": 1600,
+      "octets": 584491,
+      "source": "Adobe Stock #560972055 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #560972055"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-4",
+      "nom": "La plage et son ponton",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-4.jpg",
+      "largeur": 1067,
+      "hauteur": 1600,
+      "octets": 293498,
+      "source": "Adobe Stock #593280862 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #593280862"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-5",
+      "nom": "Le petit port",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-5.jpg",
+      "largeur": 1600,
+      "hauteur": 1063,
+      "octets": 371794,
+      "source": "Adobe Stock #229814275 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #229814275"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-6",
+      "nom": "Le sentier du littoral",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-6.jpg",
+      "largeur": 1035,
+      "hauteur": 1600,
+      "octets": 255891,
+      "source": "Adobe Stock #463016651 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #463016651"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-7",
+      "nom": "La presqu’île du ciel",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-7.jpg",
+      "largeur": 3200,
+      "hauteur": 2397,
+      "octets": 1735271,
+      "source": "Adobe Stock #260160164 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #260160164"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-8",
+      "nom": "Le salon",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-8.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 118962,
+      "source": "Adobe Stock #185531569 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #185531569"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-9",
+      "nom": "Le phare",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-9.jpg",
+      "largeur": 3200,
+      "hauteur": 1800,
+      "octets": 1149520,
+      "source": "Adobe Stock #2041507033 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #2041507033"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-10",
+      "nom": "La villa Belle Époque",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-10.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 269292,
+      "source": "Adobe Stock #546985727 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #546985727"
+    },
+    {
+      "slug": "saint-jean-cap-ferrat-11",
+      "nom": "La rade",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-jean-cap-ferrat-11.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 245856,
+      "source": "Adobe Stock #274062874 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #274062874"
     }
   ],
   "secteurs": [
