@@ -757,12 +757,12 @@
     },
     {
       "slug": "antibes-1",
-      "nom": "Antibes (galerie 1)",
+      "nom": "La presqu’île et le port",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/antibes-1.jpg",
-      "largeur": 1600,
-      "hauteur": 862,
-      "octets": 415609,
+      "largeur": 3200,
+      "hauteur": 1723,
+      "octets": 1091525,
       "source": "Adobe Stock #244344926 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -771,12 +771,12 @@
     },
     {
       "slug": "antibes-2",
-      "nom": "Antibes (galerie 2)",
+      "nom": "Le cap et ses pins",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/antibes-2.jpg",
       "largeur": 1600,
       "hauteur": 1067,
-      "octets": 332170,
+      "octets": 245649,
       "source": "Adobe Stock #229802051 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -785,12 +785,12 @@
     },
     {
       "slug": "antibes-3",
-      "nom": "La plage de sable",
+      "nom": "La plage et les plages privées",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/antibes-3.jpg",
-      "largeur": 1600,
-      "hauteur": 1067,
-      "octets": 452575,
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 1279712,
       "source": "Adobe Stock #1150449841 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -3400,6 +3400,132 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #503980257"
+    },
+    {
+      "slug": "antibes-4",
+      "nom": "La colline du cap",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-4.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 391245,
+      "source": "Adobe Stock #374340746 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #374340746"
+    },
+    {
+      "slug": "antibes-5",
+      "nom": "Les remparts",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-5.jpg",
+      "largeur": 1278,
+      "hauteur": 1600,
+      "octets": 388264,
+      "source": "Adobe Stock #542546282 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #542546282"
+    },
+    {
+      "slug": "antibes-6",
+      "nom": "La ruelle voûtée",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-6.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 280232,
+      "source": "Adobe Stock #626527908 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #626527908"
+    },
+    {
+      "slug": "antibes-7",
+      "nom": "Le marché sous les platanes",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-7.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 302432,
+      "source": "Adobe Stock #243303391 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #243303391"
+    },
+    {
+      "slug": "antibes-8",
+      "nom": "La plage aux parasols",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-8.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 347506,
+      "source": "Adobe Stock #2191916451 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #2191916451"
+    },
+    {
+      "slug": "antibes-9",
+      "nom": "Le salon sur la rade",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-9.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 176364,
+      "source": "Adobe Stock #1606904420 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1606904420"
+    },
+    {
+      "slug": "antibes-10",
+      "nom": "La table de la terrasse",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-10.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 326300,
+      "source": "Adobe Stock #758786235 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #758786235"
+    },
+    {
+      "slug": "antibes-11",
+      "nom": "Le voilier aux remparts",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-11.jpg",
+      "largeur": 1200,
+      "hauteur": 1600,
+      "octets": 433530,
+      "source": "Adobe Stock #381470529 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #381470529"
+    },
+    {
+      "slug": "antibes-12",
+      "nom": "Le vieux port",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/antibes-12.jpg",
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 1356152,
+      "source": "Adobe Stock #503173013 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #503173013"
     }
   ],
   "secteurs": [
