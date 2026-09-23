@@ -2101,7 +2101,7 @@
     },
     {
       "slug": "nice-1",
-      "nom": "Nice (galerie 1)",
+      "nom": "Une façade jaune aux volets turquoise",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/nice-1.jpg",
       "largeur": 1600,
@@ -2115,7 +2115,7 @@
     },
     {
       "slug": "nice-2",
-      "nom": "Nice (galerie 2)",
+      "nom": "Les chaises bleues de la Promenade",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/nice-2.jpg",
       "largeur": 1600,
@@ -2129,7 +2129,7 @@
     },
     {
       "slug": "nice-3",
-      "nom": "La Promenade",
+      "nom": "La baie des Anges vue du ciel",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/nice-3.jpg",
       "largeur": 1600,
@@ -2143,7 +2143,7 @@
     },
     {
       "slug": "nice-4",
-      "nom": "Le Vieux-Nice",
+      "nom": "La baie depuis la colline du château",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/nice-4.jpg",
       "largeur": 1600,
@@ -2157,7 +2157,7 @@
     },
     {
       "slug": "nice-5",
-      "nom": "La place Masséna",
+      "nom": "Le marché du cours Saleya",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/nice-5.jpg",
       "largeur": 1600,
@@ -2171,7 +2171,7 @@
     },
     {
       "slug": "nice-6",
-      "nom": "Façade niçoise",
+      "nom": "Une façade jaune aux volets turquoise",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/nice-6.jpg",
       "largeur": 1600,
@@ -2994,6 +2994,188 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #574231276"
+    },
+    {
+      "slug": "nice-7",
+      "nom": "La ruelle à l’arceau",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-7.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 545849,
+      "source": "Adobe Stock #462462818 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #462462818"
+    },
+    {
+      "slug": "nice-8",
+      "nom": "La voûte et son horloge",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-8.jpg",
+      "largeur": 1600,
+      "hauteur": 2400,
+      "octets": 793429,
+      "source": "Adobe Stock #56502769 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #56502769"
+    },
+    {
+      "slug": "nice-9",
+      "nom": "La table sous la pergola",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-9.jpg",
+      "largeur": 1600,
+      "hauteur": 1063,
+      "octets": 221582,
+      "source": "Adobe Stock #44357700 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #44357700"
+    },
+    {
+      "slug": "nice-10",
+      "nom": "La baie des Anges en grand",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-10.jpg",
+      "largeur": 3565,
+      "hauteur": 1440,
+      "octets": 1116999,
+      "source": "Adobe Stock #476417528 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #476417528"
+    },
+    {
+      "slug": "nice-11",
+      "nom": "La place Masséna",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-11.jpg",
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 977210,
+      "source": "Adobe Stock #730868983 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #730868983"
+    },
+    {
+      "slug": "nice-12",
+      "nom": "Le port et les yachts",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-12.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 331225,
+      "source": "Adobe Stock #244345661 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #244345661"
+    },
+    {
+      "slug": "nice-13",
+      "nom": "Le palais à coupole",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-13.jpg",
+      "largeur": 1600,
+      "hauteur": 881,
+      "octets": 217404,
+      "source": "Adobe Stock #347477832 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #347477832"
+    },
+    {
+      "slug": "nice-14",
+      "nom": "Le Negresco",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-14.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 366664,
+      "source": "Adobe Stock #287456556 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #287456556"
+    },
+    {
+      "slug": "nice-15",
+      "nom": "La plage aux parasols",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-15.jpg",
+      "largeur": 3200,
+      "hauteur": 2142,
+      "octets": 938378,
+      "source": "Adobe Stock #67713781 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #67713781"
+    },
+    {
+      "slug": "nice-16",
+      "nom": "La baie et l’aéroport",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-16.jpg",
+      "largeur": 3963,
+      "hauteur": 1440,
+      "octets": 1687188,
+      "source": "Adobe Stock #357499950 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #357499950"
+    },
+    {
+      "slug": "nice-17",
+      "nom": "La baie depuis la colline",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-17.jpg",
+      "largeur": 3200,
+      "hauteur": 1910,
+      "octets": 954684,
+      "source": "Adobe Stock #254864356 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #254864356"
+    },
+    {
+      "slug": "nice-18",
+      "nom": "Le grand escalier blanc",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-18.jpg",
+      "largeur": 1600,
+      "hauteur": 1060,
+      "octets": 341573,
+      "source": "Adobe Stock #67249142 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #67249142"
+    },
+    {
+      "slug": "nice-19",
+      "nom": "L’escalier ocre",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/nice-19.jpg",
+      "largeur": 1600,
+      "hauteur": 2406,
+      "octets": 550494,
+      "source": "Adobe Stock #69902109 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #69902109"
     }
   ],
   "secteurs": [
