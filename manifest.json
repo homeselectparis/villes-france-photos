@@ -2283,12 +2283,12 @@
     },
     {
       "slug": "saint-tropez-1",
-      "nom": "Saint-Tropez (galerie 1)",
+      "nom": "Le Vieux-Port au couchant",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/saint-tropez-1.jpg",
-      "largeur": 1600,
-      "hauteur": 1067,
-      "octets": 463013,
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 1163869,
       "source": "Adobe Stock #590556822 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -2297,12 +2297,12 @@
     },
     {
       "slug": "saint-tropez-2",
-      "nom": "Saint-Tropez (galerie 2)",
+      "nom": "Le golfe en grand",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/saint-tropez-2.jpg",
-      "largeur": 1600,
-      "hauteur": 359,
-      "octets": 158089,
+      "largeur": 6422,
+      "hauteur": 1440,
+      "octets": 1514705,
       "source": "Adobe Stock #362581365 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -2311,12 +2311,12 @@
     },
     {
       "slug": "saint-tropez-3",
-      "nom": "Le Vieux-Port",
+      "nom": "Les toits et le clocher",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/saint-tropez-3.jpg",
       "largeur": 1600,
       "hauteur": 1065,
-      "octets": 499744,
+      "octets": 399407,
       "source": "Adobe Stock #239835467 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -3176,6 +3176,230 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #69902109"
+    },
+    {
+      "slug": "saint-tropez-5",
+      "nom": "Les pointus et le Sénéquier",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-5.jpg",
+      "largeur": 1067,
+      "hauteur": 1600,
+      "octets": 431974,
+      "source": "Adobe Stock #219877115 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #219877115"
+    },
+    {
+      "slug": "saint-tropez-6",
+      "nom": "La place des Lices",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-6.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 267867,
+      "source": "Adobe Stock #1872074197 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1872074197"
+    },
+    {
+      "slug": "saint-tropez-7",
+      "nom": "Le marché sous les platanes",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-7.jpg",
+      "largeur": 1600,
+      "hauteur": 1068,
+      "octets": 365112,
+      "source": "Adobe Stock #133948980 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #133948980"
+    },
+    {
+      "slug": "saint-tropez-8",
+      "nom": "La citadelle vue du ciel",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-8.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 427530,
+      "source": "Adobe Stock #1863893423 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1863893423"
+    },
+    {
+      "slug": "saint-tropez-9",
+      "nom": "Le village perché",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-9.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 370565,
+      "source": "Adobe Stock #125021060 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #125021060"
+    },
+    {
+      "slug": "saint-tropez-10",
+      "nom": "Pampelonne",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-10.jpg",
+      "largeur": 3200,
+      "hauteur": 2134,
+      "octets": 1198293,
+      "source": "Adobe Stock #2172626505 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #2172626505"
+    },
+    {
+      "slug": "saint-tropez-11",
+      "nom": "Le pointu",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-11.jpg",
+      "largeur": 1280,
+      "hauteur": 1600,
+      "octets": 468821,
+      "source": "Adobe Stock #303258234 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #303258234"
+    },
+    {
+      "slug": "saint-tropez-12",
+      "nom": "Le mas et son puits",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-12.jpg",
+      "largeur": 1600,
+      "hauteur": 952,
+      "octets": 318348,
+      "source": "Adobe Stock #369273188 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #369273188"
+    },
+    {
+      "slug": "saint-tropez-13",
+      "nom": "Le ponton",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-13.jpg",
+      "largeur": 1600,
+      "hauteur": 1066,
+      "octets": 276969,
+      "source": "Adobe Stock #290061637 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #290061637"
+    },
+    {
+      "slug": "saint-tropez-14",
+      "nom": "Le port en panoramique",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-14.jpg",
+      "largeur": 5232,
+      "hauteur": 1440,
+      "octets": 1883462,
+      "source": "Adobe Stock #1994353617 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1994353617"
+    },
+    {
+      "slug": "saint-tropez-15",
+      "nom": "Les dunes de Pampelonne",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-15.jpg",
+      "largeur": 1600,
+      "hauteur": 1052,
+      "octets": 238900,
+      "source": "Adobe Stock #757295218 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #757295218"
+    },
+    {
+      "slug": "saint-tropez-16",
+      "nom": "Le couchant sur la plage",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-16.jpg",
+      "largeur": 1600,
+      "hauteur": 1131,
+      "octets": 185638,
+      "source": "Adobe Stock #221591384 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #221591384"
+    },
+    {
+      "slug": "saint-tropez-17",
+      "nom": "L'étal des courges",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-17.jpg",
+      "largeur": 1600,
+      "hauteur": 1063,
+      "octets": 284218,
+      "source": "Adobe Stock #302421884 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #302421884"
+    },
+    {
+      "slug": "saint-tropez-18",
+      "nom": "Le pointu au quai",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-18.jpg",
+      "largeur": 1118,
+      "hauteur": 1600,
+      "octets": 343998,
+      "source": "Adobe Stock #357261037 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #357261037"
+    },
+    {
+      "slug": "saint-tropez-19",
+      "nom": "La ruelle pastel",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-19.jpg",
+      "largeur": 1600,
+      "hauteur": 1066,
+      "octets": 269470,
+      "source": "Adobe Stock #230040049 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #230040049"
+    },
+    {
+      "slug": "saint-tropez-20",
+      "nom": "L'escalier de la ruelle",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/saint-tropez-20.jpg",
+      "largeur": 1200,
+      "hauteur": 1600,
+      "octets": 311196,
+      "source": "Adobe Stock #503980257 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #503980257"
     }
   ],
   "secteurs": [
