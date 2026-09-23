@@ -1457,12 +1457,12 @@
     },
     {
       "slug": "chamonix-1",
-      "nom": "Chamonix (galerie 1)",
+      "nom": "La Mer de Glace",
       "region": "Alpes",
       "fichier": "photos/galerie/chamonix-1.jpg",
       "largeur": 1600,
       "hauteur": 1067,
-      "octets": 438335,
+      "octets": 334338,
       "source": "Adobe Stock #189584457 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -1471,12 +1471,12 @@
     },
     {
       "slug": "chamonix-2",
-      "nom": "Chamonix (galerie 2)",
+      "nom": "La ville et son massif",
       "region": "Alpes",
       "fichier": "photos/galerie/chamonix-2.jpg",
       "largeur": 1600,
       "hauteur": 837,
-      "octets": 281764,
+      "octets": 214790,
       "source": "Adobe Stock #325430825 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -3988,6 +3988,118 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #68254940"
+    },
+    {
+      "slug": "chamonix-4",
+      "nom": "La piste et les skieurs",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 249817,
+      "source": "Adobe Stock #189583946 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #189583946"
+    },
+    {
+      "slug": "chamonix-5",
+      "nom": "L’église Saint-Michel",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-5.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 411974,
+      "source": "Adobe Stock #356493993 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #356493993"
+    },
+    {
+      "slug": "chamonix-6",
+      "nom": "Le chalet",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-6.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 370166,
+      "source": "Adobe Stock #510310162 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #510310162"
+    },
+    {
+      "slug": "chamonix-7",
+      "nom": "Le Mont-Blanc en grand",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-7.jpg",
+      "largeur": 3998,
+      "hauteur": 1440,
+      "octets": 888937,
+      "source": "Adobe Stock #220407408 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #220407408"
+    },
+    {
+      "slug": "chamonix-8",
+      "nom": "Le glacier en panoramique",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-8.jpg",
+      "largeur": 3579,
+      "hauteur": 1440,
+      "octets": 800798,
+      "source": "Adobe Stock #174974086 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #174974086"
+    },
+    {
+      "slug": "chamonix-9",
+      "nom": "La vallée en grand",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-9.jpg",
+      "largeur": 3200,
+      "hauteur": 955,
+      "octets": 296017,
+      "source": "Adobe Stock #164709527 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #164709527"
+    },
+    {
+      "slug": "chamonix-10",
+      "nom": "Les aiguilles en grand",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-10.jpg",
+      "largeur": 5344,
+      "hauteur": 1440,
+      "octets": 897033,
+      "source": "Adobe Stock #6144640 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #6144640"
+    },
+    {
+      "slug": "chamonix-11",
+      "nom": "L’aiguille et les randonneurs",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-11.jpg",
+      "largeur": 4885,
+      "hauteur": 1440,
+      "octets": 871267,
+      "source": "Adobe Stock #241545907 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #241545907"
     }
   ],
   "secteurs": [
