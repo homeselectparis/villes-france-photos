@@ -1569,7 +1569,7 @@
     },
     {
       "slug": "deauville-1",
-      "nom": "Deauville (galerie 1)",
+      "nom": "La plage à marée basse",
       "region": "Normandie",
       "fichier": "photos/galerie/deauville-1.jpg",
       "largeur": 1600,
@@ -1583,12 +1583,12 @@
     },
     {
       "slug": "deauville-2",
-      "nom": "Deauville (galerie 2)",
+      "nom": "Le casino",
       "region": "Normandie",
       "fichier": "photos/galerie/deauville-2.jpg",
       "largeur": 1600,
       "hauteur": 1068,
-      "octets": 404821,
+      "octets": 322344,
       "source": "Adobe Stock #229736898 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -1611,12 +1611,12 @@
     },
     {
       "slug": "deauville-4",
-      "nom": "Les villas du front de mer",
+      "nom": "Les villas à colombages",
       "region": "Normandie",
       "fichier": "photos/galerie/deauville-4.jpg",
       "largeur": 1600,
       "hauteur": 1067,
-      "octets": 458218,
+      "octets": 347622,
       "source": "Adobe Stock #322802683 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -1639,12 +1639,12 @@
     },
     {
       "slug": "deauville-6",
-      "nom": "Une villa anglo-normande",
+      "nom": "La villa à tourelle",
       "region": "Normandie",
       "fichier": "photos/galerie/deauville-6.jpg",
       "largeur": 1600,
       "hauteur": 882,
-      "octets": 339152,
+      "octets": 260510,
       "source": "Adobe Stock #8546658 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -3666,6 +3666,160 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #168106163"
+    },
+    {
+      "slug": "deauville-7",
+      "nom": "Les cabines nommées",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-7.jpg",
+      "largeur": 1065,
+      "hauteur": 1600,
+      "octets": 131014,
+      "source": "Adobe Stock #1696979014 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1696979014"
+    },
+    {
+      "slug": "deauville-8",
+      "nom": "Les Planches",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-8.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 203114,
+      "source": "Adobe Stock #68731198 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #68731198"
+    },
+    {
+      "slug": "deauville-9",
+      "nom": "La plage et ses cabines",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-9.jpg",
+      "largeur": 3200,
+      "hauteur": 2136,
+      "octets": 973081,
+      "source": "Adobe Stock #229733234 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #229733234"
+    },
+    {
+      "slug": "deauville-10",
+      "nom": "La terrasse du café",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-10.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 198949,
+      "source": "Adobe Stock #25044641 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #25044641"
+    },
+    {
+      "slug": "deauville-11",
+      "nom": "La marée basse au couchant",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-11.jpg",
+      "largeur": 3200,
+      "hauteur": 2133,
+      "octets": 1019746,
+      "source": "Adobe Stock #950562898 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #950562898"
+    },
+    {
+      "slug": "deauville-12",
+      "nom": "Les hôtels particuliers",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-12.jpg",
+      "largeur": 1600,
+      "hauteur": 1022,
+      "octets": 283107,
+      "source": "Adobe Stock #176107084 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #176107084"
+    },
+    {
+      "slug": "deauville-13",
+      "nom": "L’hippodrome",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-13.jpg",
+      "largeur": 1600,
+      "hauteur": 656,
+      "octets": 179501,
+      "source": "Adobe Stock #110077950 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #110077950"
+    },
+    {
+      "slug": "deauville-14",
+      "nom": "La Touques et Trouville",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-14.jpg",
+      "largeur": 3200,
+      "hauteur": 1772,
+      "octets": 780091,
+      "source": "Adobe Stock #337840307 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #337840307"
+    },
+    {
+      "slug": "deauville-15",
+      "nom": "Le bout des Planches",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-15.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 252313,
+      "source": "Adobe Stock #29129358 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #29129358"
+    },
+    {
+      "slug": "deauville-16",
+      "nom": "Les parasols",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-16.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 228049,
+      "source": "Adobe Stock #24881243 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #24881243"
+    },
+    {
+      "slug": "deauville-17",
+      "nom": "Le front de mer Belle Époque",
+      "region": "Normandie",
+      "fichier": "photos/galerie/deauville-17.jpg",
+      "largeur": 1600,
+      "hauteur": 516,
+      "octets": 123006,
+      "source": "Adobe Stock #3073125 (abonnement Home Select, téléchargement du 11-12/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #3073125"
     }
   ],
   "secteurs": [
