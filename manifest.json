@@ -911,12 +911,12 @@
     },
     {
       "slug": "biarritz-1",
-      "nom": "Biarritz (galerie 1)",
+      "nom": "Le Rocher de la Vierge",
       "region": "Pays basque",
       "fichier": "photos/galerie/biarritz-1.jpg",
       "largeur": 1600,
       "hauteur": 800,
-      "octets": 226128,
+      "octets": 169465,
       "source": "Adobe Stock #592157684 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -925,12 +925,12 @@
     },
     {
       "slug": "biarritz-2",
-      "nom": "Biarritz (galerie 2)",
+      "nom": "Les vagues et les surfeurs",
       "region": "Pays basque",
       "fichier": "photos/galerie/biarritz-2.jpg",
       "largeur": 1600,
       "hauteur": 1065,
-      "octets": 406841,
+      "octets": 317347,
       "source": "Adobe Stock #175256740 (abonnement Home Select, téléchargement du 11-12/09/2026)",
       "licence": {
         "nom": "Adobe Stock (licence standard)"
@@ -3918,6 +3918,76 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #179743158"
+    },
+    {
+      "slug": "biarritz-4",
+      "nom": "La plage et sa promenade",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-4.jpg",
+      "largeur": 3200,
+      "hauteur": 1204,
+      "octets": 358193,
+      "source": "Adobe Stock #68490443 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #68490443"
+    },
+    {
+      "slug": "biarritz-5",
+      "nom": "Le phare et la côte en grand",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-5.jpg",
+      "largeur": 3560,
+      "hauteur": 1440,
+      "octets": 1016482,
+      "source": "Adobe Stock #118570586 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #118570586"
+    },
+    {
+      "slug": "biarritz-6",
+      "nom": "La côte sauvage",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-6.jpg",
+      "largeur": 3200,
+      "hauteur": 1173,
+      "octets": 298180,
+      "source": "Adobe Stock #415625736 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #415625736"
+    },
+    {
+      "slug": "biarritz-7",
+      "nom": "Le Rocher en panoramique",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-7.jpg",
+      "largeur": 3301,
+      "hauteur": 1440,
+      "octets": 356374,
+      "source": "Adobe Stock #68490417 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #68490417"
+    },
+    {
+      "slug": "biarritz-8",
+      "nom": "La ville et la falaise",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-8.jpg",
+      "largeur": 3810,
+      "hauteur": 1440,
+      "octets": 585429,
+      "source": "Adobe Stock #68254940 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #68254940"
     }
   ],
   "secteurs": [
