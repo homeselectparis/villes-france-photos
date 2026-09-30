@@ -4366,6 +4366,34 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #225215773"
+    },
+    {
+      "slug": "chamonix-12",
+      "nom": "Le train du Montenvers",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-12.jpg",
+      "largeur": 1119,
+      "hauteur": 1600,
+      "octets": 338644,
+      "source": "Adobe Stock #279459081 (abonnement Home Select, téléchargement du 30/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #279459081"
+    },
+    {
+      "slug": "chamonix-13",
+      "nom": "La rue qui monte à l’église",
+      "region": "Rhône-Alpes",
+      "fichier": "photos/galerie/chamonix-13.jpg",
+      "largeur": 1067,
+      "hauteur": 1600,
+      "octets": 225005,
+      "source": "Adobe Stock #257062 (abonnement Home Select, téléchargement du 30/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #257062"
     }
   ],
   "secteurs": [
