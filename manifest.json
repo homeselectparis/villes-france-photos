@@ -1289,7 +1289,7 @@
     },
     {
       "slug": "cannes-1",
-      "nom": "Cannes (galerie 1)",
+      "nom": "La façade aux balcons",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/cannes-1.jpg",
       "largeur": 1600,
@@ -1303,7 +1303,7 @@
     },
     {
       "slug": "cannes-2",
-      "nom": "Cannes (galerie 2)",
+      "nom": "Les chaises bleues",
       "region": "Côte d’Azur",
       "fichier": "photos/galerie/cannes-2.jpg",
       "largeur": 1600,
@@ -4184,6 +4184,188 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #1733778959"
+    },
+    {
+      "slug": "cannes-4",
+      "nom": "Le palais des Festivals",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-4.jpg",
+      "largeur": 1600,
+      "hauteur": 1064,
+      "octets": 464318,
+      "source": "Adobe Stock #5407189 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #5407189"
+    },
+    {
+      "slug": "cannes-5",
+      "nom": "La ruelle à arcs",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-5.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 407090,
+      "source": "Adobe Stock #1864839029 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1864839029"
+    },
+    {
+      "slug": "cannes-6",
+      "nom": "La terrasse aux Lérins",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-6.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 230836,
+      "source": "Adobe Stock #1733778713 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1733778713"
+    },
+    {
+      "slug": "cannes-7",
+      "nom": "La Croisette en grand",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-7.jpg",
+      "largeur": 3200,
+      "hauteur": 1600,
+      "octets": 1275085,
+      "source": "Adobe Stock #248730221 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #248730221"
+    },
+    {
+      "slug": "cannes-8",
+      "nom": "Le toit sur la baie",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-8.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 430164,
+      "source": "Adobe Stock #140406224 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #140406224"
+    },
+    {
+      "slug": "cannes-9",
+      "nom": "La régate",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-9.jpg",
+      "largeur": 3200,
+      "hauteur": 2093,
+      "octets": 924297,
+      "source": "Adobe Stock #245404223 (abonnement Home Select, téléchargement du 22/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #245404223"
+    },
+    {
+      "slug": "cannes-10",
+      "nom": "La promenade aux palmiers",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-10.jpg",
+      "largeur": 1067,
+      "hauteur": 1600,
+      "octets": 371134,
+      "source": "Adobe Stock #12013276 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #12013276"
+    },
+    {
+      "slug": "cannes-11",
+      "nom": "L’île Saint-Honorat",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-11.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 208673,
+      "source": "Adobe Stock #144802289 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #144802289"
+    },
+    {
+      "slug": "cannes-12",
+      "nom": "Le port et le Suquet",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-12.jpg",
+      "largeur": 1600,
+      "hauteur": 900,
+      "octets": 326451,
+      "source": "Adobe Stock #501805176 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #501805176"
+    },
+    {
+      "slug": "cannes-13",
+      "nom": "La baie en grand",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-13.jpg",
+      "largeur": 3606,
+      "hauteur": 1440,
+      "octets": 1503285,
+      "source": "Adobe Stock #1094969738 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1094969738"
+    },
+    {
+      "slug": "cannes-14",
+      "nom": "La baie en arc",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-14.jpg",
+      "largeur": 3482,
+      "hauteur": 1440,
+      "octets": 658740,
+      "source": "Adobe Stock #583961957 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #583961957"
+    },
+    {
+      "slug": "cannes-15",
+      "nom": "La plage aux parasols bleus",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-15.jpg",
+      "largeur": 1600,
+      "hauteur": 1063,
+      "octets": 287323,
+      "source": "Adobe Stock #63496761 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #63496761"
+    },
+    {
+      "slug": "cannes-16",
+      "nom": "La plage Belle Époque",
+      "region": "Côte d’Azur",
+      "fichier": "photos/galerie/cannes-16.jpg",
+      "largeur": 1067,
+      "hauteur": 1600,
+      "octets": 321691,
+      "source": "Adobe Stock #225215773 (abonnement Home Select, téléchargement du 23/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #225215773"
     }
   ],
   "secteurs": [
