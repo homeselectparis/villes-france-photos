@@ -4100,6 +4100,90 @@
         "nom": "Adobe Stock (licence standard)"
       },
       "credit": "Adobe Stock #241545907"
+    },
+    {
+      "slug": "biarritz-9",
+      "nom": "La villa basque",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-9.jpg",
+      "largeur": 1067,
+      "hauteur": 1600,
+      "octets": 470476,
+      "source": "Adobe Stock #807202 (abonnement Home Select, téléchargement du 24/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #807202"
+    },
+    {
+      "slug": "biarritz-10",
+      "nom": "Le palace face à l’océan",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-10.jpg",
+      "largeur": 1600,
+      "hauteur": 1200,
+      "octets": 311584,
+      "source": "Adobe Stock #470079068 (abonnement Home Select, téléchargement du 26/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #470079068"
+    },
+    {
+      "slug": "biarritz-11",
+      "nom": "La terrasse",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-11.jpg",
+      "largeur": 1600,
+      "hauteur": 1295,
+      "octets": 556003,
+      "source": "Adobe Stock #187964473 (abonnement Home Select, téléchargement du 24/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #187964473"
+    },
+    {
+      "slug": "biarritz-12",
+      "nom": "Le pêcheur",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-12.jpg",
+      "largeur": 1600,
+      "hauteur": 1200,
+      "octets": 360156,
+      "source": "Adobe Stock #384397191 (abonnement Home Select, téléchargement du 24/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #384397191"
+    },
+    {
+      "slug": "biarritz-13",
+      "nom": "La plage de rochers",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-13.jpg",
+      "largeur": 1600,
+      "hauteur": 1071,
+      "octets": 472069,
+      "source": "Adobe Stock #157184896 (abonnement Home Select, téléchargement du 24/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #157184896"
+    },
+    {
+      "slug": "biarritz-14",
+      "nom": "La côte aux herbes",
+      "region": "Pays basque",
+      "fichier": "photos/galerie/biarritz-14.jpg",
+      "largeur": 1600,
+      "hauteur": 1067,
+      "octets": 468000,
+      "source": "Adobe Stock #1733778959 (abonnement Home Select, téléchargement du 24/09/2026)",
+      "licence": {
+        "nom": "Adobe Stock (licence standard)"
+      },
+      "credit": "Adobe Stock #1733778959"
     }
   ],
   "secteurs": [
