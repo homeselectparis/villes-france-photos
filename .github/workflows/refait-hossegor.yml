@@ -11,7 +11,7 @@ jobs:
           python3 - <<'PY'
           import urllib.request, urllib.parse, json
           t="Notre Dame Beach, Soorts-Hossegor.jpg"
-          for w in (3200, 2560, 1920):
+          for w in (3200, 2560, 1920, 1600):
               url="https://commons.wikimedia.org/wiki/Special:FilePath/"+urllib.parse.quote(t.replace(" ","_"))+f"?width={w}"
               req=urllib.request.Request(url, headers={"User-Agent":"homeselect-photos-sync/1.0 (contact@home-select.fr)"})
               buf=urllib.request.urlopen(req, timeout=120).read()
@@ -23,7 +23,7 @@ jobs:
                       if v["slug"]=="hossegor":
                           v["octets"]=len(buf)
                           v["source"]=f"Wikimedia Commons, Fichier:{t} (export {w} px)"
-                  json.dump(m, open("manifest.json","w"), encoding="utf-8", ensure_ascii=False, indent=1)
+                  json.dump(m, open("manifest.json","w",encoding="utf-8"), ensure_ascii=False, indent=1)
                   open("manifest.json","a").write("\n")
                   break
           else:
